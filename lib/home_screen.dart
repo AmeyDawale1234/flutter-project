@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
       body: const Column(
         children: [
           Text(
-            "Welcome to home screen",
+            "oKAY aMEY YOU ARE READY TO EXPLORE",
             style: TextStyle(
                 color: Colors.red, fontSize: 15, fontWeight: FontWeight.bold),
           )
